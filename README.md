@@ -1,7 +1,7 @@
 # CLRMetaDiff, a diff viewer for CLR assemblies!
-CLRMetaDiff (**C**ommon **L**anguage **R**untime **Meta**data **Diff**erence) is a tool to compare the differences between versions CLR assemblies.
+CLRMetaDiff (**C**ommon **L**anguage **R**untime **Meta**data **Diff**erence) is a tool to compare the differences between versions of CLR assemblies.
 
-The tool compares changes between the types and type members contained within two assemblies or two directories with matching named assembilies.
+The tool compares changes between the types and type members contained within two assemblies or two directories of assembilies with matching file names.
 
 *It was also made very quickly for a one time use and probably won't be updated...*
 
